@@ -1,4 +1,4 @@
-### Logo & Business Card – Pâtisserie La Brioche +
+### Logo & Business Card 
 A branding exercise where a logo and business card were designed for a company.  
 The project focused on choosing a unique aesthetic, color palette, and typography to reflect the personality of the brand.  
 
