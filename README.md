@@ -6,4 +6,4 @@ Each project demonstrates different aspects of visual communication, branding, a
 ---
 
 ## Notes
-Some folders contains the source file (`.psd` or `.ai`) and a preview for quick viewing (`.jpeg` or `pdf`).  
+Some folders contains the source file (`.psd` or `.ai`) and a preview for quick viewing (`.jpeg` or `.pdf`).  
