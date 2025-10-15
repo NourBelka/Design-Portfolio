@@ -6,7 +6,7 @@ Welcome to my **After Effects projects** repo!
 - **Logo Animation**: animation of previous logo made on Adobe Illustrator
 - **Motion Graphics Edit**: transitions and UI-style animations inspired by iPhone/tech aesthetics
 
-## To watch the videos:
+## How to view
 -  Click the file name  
 - Press **Download** to view it locally  
 or  
