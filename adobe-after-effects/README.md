@@ -1,6 +1,6 @@
 # Adobe After Effects Projects
 
-Welcome to my After Effects projects repo!  
+Welcome to my Adobe After Effects repo!  
 
 ## What’s inside
 - **Logo Animation**: animation of previous logo made on Adobe Illustrator
