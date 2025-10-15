@@ -14,8 +14,8 @@ or
 
 
 ## Notes
-- All files are for **showcase purposes only**.  
-- Feel free to get inspired, but please **credit if you reuse**.
+- All files are for showcase purposes only.  
+- Feel free to get inspired, but please credit if you reuse.
 
 ---
 
