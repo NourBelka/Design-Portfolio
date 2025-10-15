@@ -1,3 +1,5 @@
+# Photoshop Projects
+
 ### Fashion Event Poster
 An event poster designed in Photoshop for a simulated fashion event.  
 The project included creating a custom logo in Illustrator and incorporating it into the final poster design.  
