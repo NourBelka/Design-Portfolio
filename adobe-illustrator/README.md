@@ -2,7 +2,7 @@
 
 Welcome to my Adobe Illustrator repo!  
 
-# What's inside
+## What's inside
 
 ### Logo & Business Card 
 A team branding exercise where a logo and business card were designed for a company.  
