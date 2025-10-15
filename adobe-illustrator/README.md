@@ -1,5 +1,7 @@
 # Adobe Illustrator Projects
 
+Welcome to my Adobe Illustrator repo!  
+
 ### Logo & Business Card 
 A team branding exercise where a logo and business card were designed for a company.  
 The project focused on choosing a unique aesthetic, color palette, and typography to reflect the personality of the brand. 
