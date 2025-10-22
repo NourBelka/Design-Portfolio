@@ -3,7 +3,7 @@
 Welcome to my Adobe After Effects repo!  
 
 ## What’s inside
-- **Logo Animation**: animation of my own logo made on Adobe Illustrator.
+- **Logo Animation**: animation of my own logo previously made on Adobe Illustrator.
 - **Motion Graphics Edit**: transitions and UI-style animations inspired by iPhone/tech aesthetics.
 
 ## How to view
